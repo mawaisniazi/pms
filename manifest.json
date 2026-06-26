@@ -1,11 +1,11 @@
 {
-    "name": "lodging",
-    "short_name": "lodging",
+    "name": "HospiCore PMS",
+    "short_name": "HospiCore",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A complete lodging solution",
+    "description": "Professional Hotel Management SaaS",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
